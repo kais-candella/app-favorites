@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url(../image/g_1785-vinyle.jpg);
+    background-size: 100%;
+}
+
+h1{
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    padding: 7% ;
+    font-size: 60px;
+    font-style: italic;
+    text-shadow: #1daf0083 2px 0 10px;
+    
+}
+
+table{
+    padding-right: 20%;
+    color: rgb(209, 209, 209);
+}
+
+td{
+    padding: 10%;
+    font-size: 20px;
+    color: rgb(255, 255, 255); 
+    text-shadow: rgb(0, 0, 0) 1px 0 10px;
+}
+
+a{
+    color: rgb(255, 255, 255);
+    text-shadow: rgb(0, 0, 0) 1px 0 10px;
+}
+
