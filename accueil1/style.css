@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url(../image/fond-accueil.png);
+    background-size: 100%;
+}
+
+h1{
+    text-align: center;
+    padding-top: 13%;
+    color: white;
+    text-transform: uppercase;
+    cursor: pointer;
+
+}
+
+
+a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0);
+}
+
+
+
+.photoshop{
+    margin-top: 9%;
+    margin-left: 15%;
+    font-size: 75px;
+    cursor: pointer;
+    color: rgba(138, 228, 255, 0.973);
+    text-transform: uppercase;
+
+}
+
+.instagram{
+    margin-left: 55%;
+    
+    font-size: 100px;
+    cursor: pointer;
+    color: rgba(255, 101, 186, 0.89); 
+    text-transform: uppercase;
+}
+
+.spotify{
+    margin-left: 85%;
+    font-size: 100px;
+    cursor: pointer;
+    color: rgba(33, 144, 158, 0.836);
+    text-transform: uppercase;
+}
+
